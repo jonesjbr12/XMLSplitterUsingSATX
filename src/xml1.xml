@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MSG>
+    <product>
+        <description>Sony 54.6" (Diag) Xbr Hx929 Internet Tv</description>
+        <gtin>00027242816657</gtin>
+        <price>2999.99</price>
+        <orderId>2343</orderId>
+        <supplier>Sony</supplier>
+    </product>
+    <bd>
+        <shipment>
+            <shpdate>01-01-2023</shpdate>
+            <shpdetails>shipment1</shpdetails>
+        </shipment>
+        <customtag>custom1</customtag>
+        <invoice>
+            <invdate>01-01-2023</invdate>
+            <invdetail>invoice1</invdetail>
+        </invoice>
+	</bd>
+</MSG>
